@@ -1,0 +1,26 @@
+.banner{
+    background-color:#406DA0;
+    border-style: groove;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+
+}
+
+.banner-text{
+    color:white ;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 2px 2px black;
+}
+
+.h4{
+    color:#133D6C;
+    text-shadow: 2px 2px #738599;
+
+
+}
+
+.body {
+   background-color:#AEB6BF;
+}
